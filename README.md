@@ -1,6 +1,10 @@
-# pertemuan2
-
-A new Flutter project.
+# JGN LUPA EKSPOR
+# Tugas pertemuan2
+Buatkan halaman Portofolio yang terdiri dari:
+  - AppBar = "Portofolio"
+  - Circle Image
+  - Text = Nama Kalian
+  - Text = NIM KALIAN
 
 ## Getting Started
 
