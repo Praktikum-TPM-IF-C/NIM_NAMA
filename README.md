@@ -1,4 +1,4 @@
-# JGN LUPA EKSPOR
+# JGN LUPA EKSPLOR
 # Tugas pertemuan2
 Buatkan halaman Portofolio yang terdiri dari:
   - AppBar = "Portofolio"
